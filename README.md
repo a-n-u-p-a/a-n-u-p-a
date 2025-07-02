@@ -2,7 +2,7 @@
 
 I am a passionate Web Developer, driven by a curiosity for technology. My journey involves delving into the world of tech, exploring new ideas, and sharing my insights with the community.
 
-<img src="https://github-readme-stats.vercel.app/api?username=a-n-u-p-a&show_icons=true&include_all_commits=true&count_private=true&theme=gotham" alt="a-n-u-p-a|Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a-n-u-p-a&theme=github_dark" />
 
 
 
