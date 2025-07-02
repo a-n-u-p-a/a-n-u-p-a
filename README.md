@@ -2,8 +2,14 @@
 
 I am a passionate Web Developer, driven by a curiosity for technology. My journey involves delving into the world of tech, exploring new ideas, and sharing my insights with the community.
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a-n-u-p-a&theme=github_dark" />
+<div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=a-n-u-p-a&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=a-n-u-p-a&theme=radical" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-n-u-p-a&layout=compact&theme=radical&langs_count=8" width="48%"/>
+
+</div>
 
 
 ## Tech Stack
